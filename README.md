@@ -1,4 +1,3 @@
-# Third Project .
 ## Introduction
 Welcome , this game is simulation of the original packman game on google earth maps.
 
